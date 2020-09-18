@@ -1,0 +1,24 @@
+dashboard ---- 
+
+detailed districts reports---- Full Break Down
+
+qurantine facility ------ areas,people tested in negative 
+
+profile--main users reports,screenings,
+
+tracking ----- monitoring(geofencing-live dashboard) 
+
+municipalities change to stats breakdown
+
+screened->refereed->confirmed->pending cases->cleared cases->
+
+Shadow of province logo
+
+
+
+tracking and monitoring
+
+Servece tickets allocated 
+
+monitoring side- dashboard she sent
+
